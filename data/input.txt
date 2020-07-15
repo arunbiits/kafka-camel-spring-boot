@@ -1,0 +1,4 @@
+{"transactionType":"ADD","sku":"100","itemDescription":"Samsung TV","price":"500.00"}
+{"transactionType":"ADD","sku":"101","itemDescription":"LG TV","price":"400.00"}
+{"transactionType":"UPDATE","sku":"101","itemDescription":"LG TV","price":"700.00"}
+{"transactionType":"DELETE","sku":"101","itemDescription":"LG TV","price":"500.00"}
